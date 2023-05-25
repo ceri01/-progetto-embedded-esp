@@ -1,0 +1,7 @@
+#ifndef _CONFIG_H
+#define _CONFIG_H
+
+#define BAUD_RATE 9600
+#define COMMUNICATION_INTERVAL 10 * TASK_SECOND
+
+#endif
